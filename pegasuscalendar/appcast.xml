@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Pegasus Calendar</title>
+        <item>
+            <title>1.22.5</title>
+            <pubDate>Sat, 08 Aug 2026 15:52:23 +0800</pubDate>
+            <sparkle:version>12205</sparkle:version>
+            <sparkle:shortVersionString>1.22.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://update.pegasuscool.com/pegasuscalendar/Pegasus-Calendar-1.22.5.dmg" length="9731366" type="application/octet-stream" sparkle:edSignature="ADKkMuVNJyFs+I/CDgP3ylPxDT8Yhjs6T5oI+jB7MQz58wcBmKjYJBFp+wGJtsKpJ9+/VmNKmSutKs1hLHliBw=="/>
+        </item>
+    </channel>
+</rss>
