@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PegasusOCR</title>
+        <item>
+            <title>2.0.0</title>
+            <pubDate>Sat, 08 Aug 2026 15:16:46 +0800</pubDate>
+            <sparkle:version>149</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://update.pegasuscool.com/pegasusocr/PegasusOCR-2.0.0.dmg" length="12212313" type="application/octet-stream" sparkle:edSignature="cbdKTa/tzl6RbWs6rBS5jQQr7VO9JhimLAKhsY516HY9PRGAHlHIXz2Qlj1q79T0XfZpWhURFjMVO0cC0yQyDw=="/>
+        </item>
+    </channel>
+</rss>
