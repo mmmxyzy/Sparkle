@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Typene</title>
+        <item>
+            <title>1.33.1</title>
+            <pubDate>Sat, 08 Aug 2026 12:39:48 +0800</pubDate>
+            <sparkle:version>93</sparkle:version>
+            <sparkle:shortVersionString>1.33.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://update.pegasuscool.com/typene/Typene-1.33.1.dmg" length="9269100" type="application/octet-stream" sparkle:edSignature="be4Y6tc3MvkAqITy51Rs2twbRRxr/1EzYvNwBD1Iw+HHgWJhS6gls3kFyT4F/WM5sRvhFME3V3NkWz/Bx9a8Bw=="/>
+        </item>
+    </channel>
+</rss>
