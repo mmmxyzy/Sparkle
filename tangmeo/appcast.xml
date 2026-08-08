@@ -4,11 +4,11 @@
         <title>TangMeo</title>
         <item>
             <title>1.5.3</title>
-            <pubDate>Sat, 08 Aug 2026 16:23:44 +0800</pubDate>
-            <sparkle:version>21</sparkle:version>
+            <pubDate>Sat, 08 Aug 2026 17:17:47 +0800</pubDate>
+            <sparkle:version>22</sparkle:version>
             <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://update.pegasuscool.com/tangmeo/TangMeo-1.5.3.dmg" length="42200510" type="application/octet-stream" sparkle:edSignature="t9pfkLte+FuexiIoTf+aPDCfyKX8GUi1J9keQ2rEIb/Nmct0PP1Q82ITsoycGGr5HJRddQqx6YAVXn086yu7Bg=="/>
+            <enclosure url="https://update.pegasuscool.com/tangmeo/TangMeo-1.5.3.dmg" length="42203584" type="application/octet-stream" sparkle:edSignature="IHt7xb7+MCQa527tNB7k2yWxrfgU6w2EEl8ty+3H3MaCVE4pwzybEKqYf9eis867bsWtCM8Xn79nz1VzbIubCg=="/>
         </item>
     </channel>
 </rss>
